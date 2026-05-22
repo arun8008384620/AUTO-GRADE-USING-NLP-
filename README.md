@@ -125,8 +125,3 @@ Results are saved to `evaluation_results.xlsx` with columns:
 | Student Name | Subject Name | Prebuilt Answer | Student Answer | Similarity Score (%) | Grade |
 |---|---|---|---|---|---|
 
----
-
-## License
-
-This project is for academic purposes.
