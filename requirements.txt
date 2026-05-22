@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+numpy
+pandas
+scikit-learn
+openpyxl
